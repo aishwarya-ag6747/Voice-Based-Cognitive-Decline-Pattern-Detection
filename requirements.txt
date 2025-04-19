@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+transformers
+scikit-learn
+librosa
+soundfile
+pandas
