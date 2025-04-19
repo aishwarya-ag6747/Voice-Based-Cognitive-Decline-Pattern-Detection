@@ -43,7 +43,7 @@ Voice-Based-Cognitive-Decline-Pattern-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Voice-Based-Cognitive-Decline-Pattern-Detection.git
+git clone https://github.com/aishwarya-ag6747/Voice-Based-Cognitive-Decline-Pattern-Detection.git
 cd Voice-Based-Cognitive-Decline-Pattern-Detection
 ```
 
